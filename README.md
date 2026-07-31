@@ -22,6 +22,7 @@ A curated list of fonts and typography resources.
 * [Font Of Web](https://fontofweb.com) - Fonts from the most inspiring websites on the web
 * [Fonts In Use](https://fontsinuse.com/) - A public archive of typography
 * [FontsWiki](https://fontswiki.com/) - Free font downloads, pairing guides, and font-in-use references for logos, movies, games, and design projects
+* [What Font Finder](https://whatfontfinder.com/font-identifier/) - Identify a font from an image in the browser, with a confidence score and no upload
 * [Typewolf](https://www.typewolf.com/)
 
 ## Free fonts
